@@ -1,1 +1,1 @@
-# Deepfake_Detection_System
+# Fake_News_Detection_System
